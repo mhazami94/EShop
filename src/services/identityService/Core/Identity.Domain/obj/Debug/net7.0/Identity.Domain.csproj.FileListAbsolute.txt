@@ -1,0 +1,15 @@
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\bin\Debug\net7.0\Identity.Domain.deps.json
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\bin\Debug\net7.0\Identity.Domain.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\bin\Debug\net7.0\Identity.Domain.pdb
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.AssemblyReference.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfoInputs.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.AssemblyInfo.cs
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.CoreCompileInputs.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\refint\Identity.Domain.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.pdb
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\ref\Identity.Domain.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\bin\Debug\net7.0\Identity.Domain.SeedWork.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\bin\Debug\net7.0\Identity.Domain.SeedWork.pdb
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain\obj\Debug\net7.0\Identity.Domain.csproj.CopyComplete

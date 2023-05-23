@@ -1,0 +1,12 @@
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\bin\Debug\net7.0\Identity.Domain.SeedWork.deps.json
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\bin\Debug\net7.0\Identity.Domain.SeedWork.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\bin\Debug\net7.0\Identity.Domain.SeedWork.pdb
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.csproj.AssemblyReference.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.AssemblyInfoInputs.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.AssemblyInfo.cs
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.csproj.CoreCompileInputs.cache
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\refint\Identity.Domain.SeedWork.dll
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\Identity.Domain.SeedWork.pdb
+D:\GitWorkSpase\EShop\src\services\identityService\Core\Identity.Domain.SeedWork\obj\Debug\net7.0\ref\Identity.Domain.SeedWork.dll

@@ -1,0 +1,215 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Test\\Identity.Domain.Test\\Identity.Domain.Test.csproj": {}
+  },
+  "projects": {
+    "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\Identity.Domain.SeedWork.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\Identity.Domain.SeedWork.csproj",
+        "projectName": "Identity.Domain.SeedWork",
+        "projectPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\Identity.Domain.SeedWork.csproj",
+        "packagesPath": "C:\\Users\\mohammad.azamiandara\\.nuget\\packages\\",
+        "outputPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohammad.azamiandara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\Identity.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\Identity.Domain.csproj",
+        "projectName": "Identity.Domain",
+        "projectPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\Identity.Domain.csproj",
+        "packagesPath": "C:\\Users\\mohammad.azamiandara\\.nuget\\packages\\",
+        "outputPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohammad.azamiandara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\Identity.Domain.SeedWork.csproj": {
+                "projectPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain.SeedWork\\Identity.Domain.SeedWork.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Mhazami.Utility": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Test\\Identity.Domain.Test\\Identity.Domain.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Test\\Identity.Domain.Test\\Identity.Domain.Test.csproj",
+        "projectName": "Identity.Domain.Test",
+        "projectPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Test\\Identity.Domain.Test\\Identity.Domain.Test.csproj",
+        "packagesPath": "C:\\Users\\mohammad.azamiandara\\.nuget\\packages\\",
+        "outputPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Test\\Identity.Domain.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mohammad.azamiandara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\Identity.Domain.csproj": {
+                "projectPath": "D:\\GitWorkSpase\\EShop\\src\\services\\identityService\\Core\\Identity.Domain\\Identity.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.5.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
